@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido com Node.js e o framework Express.js para gerenciamento de filmes.
 
-## Installation
+## Instalação
 
 Para instalar as dependências do projeto, execute o seguinte comando:
 
